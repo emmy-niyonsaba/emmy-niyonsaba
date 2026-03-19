@@ -27,44 +27,67 @@ REST APIs
 ### 🎨 Frontend
 
 React.js
+
 Typescript
+
 JavaScript (ES6+)
+
 HTML5 & CSS3
+
 Tailwind CSS
+
 Bootstrap
 
 ### 🖥️ Systems & Server
+
 Linux (Ubuntu)
+
 Windows Server 
 
 🧰 Tools
+
 Git & GitHub
+
 VS Code
+
 npm
+
 Vite
+
 Postman
+
 Figma
 
 🌱 Currently Learning
 
 Advanced JavaScript
+
 React Advanced Patterns
+
 Java Spring boot
-API Design & Optimization
+
+Next.js
+
 Authentication & Security
 
 ### 📂 Projects
  Hotel Reservation System – Real-world booking system project
-  Ikaze school vistor managment system
+ 
+ Ikaze school vistor managment system
 
 ## 🎯 Goals
 Become a professional full-stack developer
+
 Build scalable and production-ready applications
+
 Contribute to open-source projects
+
 Master both frontend and backend systems
 
 ## 📫 Connect With Me
+
 Tel:+250790231509
+
 Portfolio:https://my-portfolio-eight-ashen-89.vercel.app/
 
 ## ⚡ Fun Fact
