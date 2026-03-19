@@ -1,5 +1,5 @@
-👋 Hi there, I'm Emmanuel Niyonsaba
-🚀 About Me
+## 👋 Hi there, I'm Emmanuel Niyonsaba
+ ###  🚀 About Me
 
 I'm a passionate junior full-stack developer focused on building modern and scalable web applications. I enjoy working with both frontend and backend technologies, and I’m constantly improving my skills by building real-world projects.
 
@@ -13,8 +13,8 @@ I'm a passionate junior full-stack developer focused on building modern and scal
 
 📈 Always learning and improving every day
 
-🛠️ Technologies & Tools
-🔙 Backend
+## 🛠️ Technologies & Tools
+#### 🔙 Backend
 
 Node.js
 
@@ -24,84 +24,48 @@ MySQL
 
 REST APIs
 
-🎨 Frontend
+### 🎨 Frontend
 
 React.js
-
+Typescript
 JavaScript (ES6+)
-
 HTML5 & CSS3
-
 Tailwind CSS
-
 Bootstrap
 
-🧠 State Management
-
-Zustand
-
-Redux
-
-Context API
-
-🖥️ Systems & Server
-
+### 🖥️ Systems & Server
 Linux (Ubuntu)
-
-Apache
-
-FTP & Samba
-
-Windows Server (Active Directory basics)
+Windows Server 
 
 🧰 Tools
-
 Git & GitHub
-
 VS Code
-
 npm
-
 Vite
-
 Postman
-
 Figma
 
 🌱 Currently Learning
 
 Advanced JavaScript
-
 React Advanced Patterns
-
-Backend Development with Node.js
-
+Java Spring boot
 API Design & Optimization
-
 Authentication & Security
 
-📂 Projects
+### 📂 Projects
+ Hotel Reservation System – Real-world booking system project
+  Ikaze school vistor managment system
 
-📝 Post Management App – CRUD app with React, Zustand, and routing
-
-🏨 Hotel Reservation System – Real-world booking system project
-
-🎯 Goals
-
+## 🎯 Goals
 Become a professional full-stack developer
-
 Build scalable and production-ready applications
-
 Contribute to open-source projects
-
 Master both frontend and backend systems
 
-📫 Connect With Me
+## 📫 Connect With Me
+Tel:+250790231509
+Portfolio:https://my-portfolio-eight-ashen-89.vercel.app/
 
-GitHub: (add your GitHub link here)
-
-Portfolio: (add later when ready)
-
-⚡ Fun Fact
-
-I don’t just write code — I break it down deeply until I fully understand it, then rebuild it better.
+## ⚡ Fun Fact
+I enjoy Football and also i blieve in Jesus
