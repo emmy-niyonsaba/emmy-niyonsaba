@@ -1,94 +1,65 @@
-## 👋 Hi there, I'm Emmanuel Niyonsaba
- ###  🚀 About Me
+# 👋 Welcome to My GitHub Profile
 
-I'm a passionate junior full-stack developer focused on building modern and scalable web applications. I enjoy working with both frontend and backend technologies, and I’m constantly improving my skills by building real-world projects.
+## About Me
 
-💻 Interested in full-stack development (MERN stack)
+I'm a passionate **Full-Stack Developer** with a strong foundation in modern web technologies and a commitment to building scalable, production-ready applications. I specialize in the **MERN stack** and am dedicated to continuous learning and professional growth.
 
-🧠 Strong focus on JavaScript and modern frameworks
+**Key Areas of Expertise:**
+- 💻 Full-stack web application development
+- 🧠 Advanced JavaScript and modern framework patterns
+- ⚙️ State management solutions (Redux, Zustand, Context API)
+- 🌐 Building real-world systems (reservation platforms, management systems)
+- 📈 Clean code and best practices
 
-⚙️ Exploring state management (Zustand, Redux, Context API)
+## 🛠️ Technology Stack
 
-🌐 Building practical applications like post management systems and reservation platforms
+### Frontend Development
+- **Languages & Frameworks:** React.js, TypeScript, JavaScript (ES6+)
+- **Styling:** Tailwind CSS, Bootstrap, HTML5 & CSS3
+- **Build Tools:** Vite, npm
 
-📈 Always learning and improving every day
+### Backend Development
+- **Runtime:** Node.js
+- **Databases:** PostgreSQL, MySQL
+- **Architecture:** REST APIs, MVC patterns
 
-## 🛠️ Technologies & Tools
-#### 🔙 Backend
+### Tools & Platforms
+- **Version Control:** Git & GitHub
+- **Development Environment:** VS Code
+- **API Testing:** Postman
+- **Design:** Figma
+- **Operating Systems:** Linux (Ubuntu), Windows
 
-Node.js
+### Currently Exploring
+- Advanced JavaScript concepts
+- React Advanced Patterns & Next.js
+- Spring Boot (Java)
+- Authentication & Security Best Practices
 
-PostgreSQL
+## 🚀 Featured Projects
 
-MySQL
+### Hotel Reservation System
+A comprehensive full-stack booking platform demonstrating real-world application development with user authentication, property management, and reservation workflows.
 
-REST APIs
+### Ikaze School Visitor Management System
+An intelligent visitor management solution designed for educational institutions, featuring check-in/check-out tracking and security protocols.
 
-### 🎨 Frontend
+## 🎯 Professional Goals
 
-React.js
+- Develop expertise as a full-stack engineer capable of architecting comprehensive solutions
+- Build scalable, maintainable, production-grade applications
+- Contribute to impactful open-source projects
+- Master advanced patterns in frontend and backend systems
+- Establish a strong professional network in the tech community
 
-Typescript
+## 📫 Get in Touch
 
-JavaScript (ES6+)
+I'm always interested in connecting with fellow developers and exploring new opportunities!
 
-HTML5 & CSS3
+- **Portfolio:** [Visit My Portfolio](https://my-portfolio-eight-ashen-89.vercel.app/)
+- **Phone:** +250 790 231 509
+- **GitHub:** [github.com/emmy-niyonsaba](https://github.com/emmy-niyonsaba)
 
-Tailwind CSS
+## ⚡ Beyond Code
 
-Bootstrap
-
-### 🖥️ Systems & Server
-
-Linux (Ubuntu)
-
-Windows Server 
-
-🧰 Tools
-
-Git & GitHub
-
-VS Code
-
-npm
-
-Vite
-
-Postman
-
-Figma
-
-🌱 Currently Learning
-
-Advanced JavaScript
-
-React Advanced Patterns
-
-Java Spring boot
-
-Next.js
-
-Authentication & Security
-
-### 📂 Projects
- Hotel Reservation System – Real-world booking system project
- 
- Ikaze school vistor managment system
-
-## 🎯 Goals
-Become a professional full-stack developer
-
-Build scalable and production-ready applications
-
-Contribute to open-source projects
-
-Master both frontend and backend systems
-
-## 📫 Connect With Me
-
-Tel:+250790231509
-
-Portfolio:https://my-portfolio-eight-ashen-89.vercel.app/
-
-## ⚡ Fun Fact
-I enjoy Football and also i blieve in Jesus
+When I'm not coding, you can find me enjoying football or reflecting on life's bigger picture. Balance and continuous self-improvement drive everything I do.
