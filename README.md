@@ -1,65 +1,44 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi, I'm Emmanuel Niyonsaba
 
-## About Me
+Passionate **Full-Stack Developer** focused on building scalable, production-ready web applications with modern frontend and backend technologies.
 
-I'm a passionate **Full-Stack Developer** with a strong foundation in modern web technologies and a commitment to building scalable, production-ready applications. I specialize in the **MERN stack** and am dedicated to continuous learning and professional growth.
+---
 
-**Key Areas of Expertise:**
-- 💻 Full-stack web application development
-- 🧠 Advanced JavaScript and modern framework patterns
-- ⚙️ State management solutions (Redux, Zustand, Context API)
-- 🌐 Building real-world systems (reservation platforms, management systems)
-- 📈 Clean code and best practices
+### 🛠️ When I code, I rely on
 
-## 🛠️ Technology Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Frontend Development
-- **Languages & Frameworks:** React.js, TypeScript, JavaScript (ES6+)
-- **Styling:** Tailwind CSS, Bootstrap, HTML5 & CSS3
-- **Build Tools:** Vite, npm
+---
 
-### Backend Development
-- **Runtime:** Node.js
-- **Databases:** PostgreSQL, MySQL
-- **Architecture:** REST APIs, MVC patterns
+### 🚀 Featured Projects
 
-### Tools & Platforms
-- **Version Control:** Git & GitHub
-- **Development Environment:** VS Code
-- **API Testing:** Postman
-- **Design:** Figma
-- **Operating Systems:** Linux (Ubuntu), Windows
+- **Hotel Reservation System**  
+  A full-stack booking platform featuring user authentication, property management, and reservation workflows.
 
-### Currently Exploring
-- Advanced JavaScript concepts
-- React Advanced Patterns & Next.js
-- Spring Boot (Java)
-- Authentication & Security Best Practices
+- **Ikaze School Visitor Management System**  
+  An intelligent visitor management solution built for educational institutions to streamline check-in/check-out tracking and security protocols.
 
-## 🚀 Featured Projects
+---
 
-### Hotel Reservation System
-A comprehensive full-stack booking platform demonstrating real-world application development with user authentication, property management, and reservation workflows.
+### 📫 Get in Touch
 
-### Ikaze School Visitor Management System
-An intelligent visitor management solution designed for educational institutions, featuring check-in/check-out tracking and security protocols.
-
-## 🎯 Professional Goals
-
-- Develop expertise as a full-stack engineer capable of architecting comprehensive solutions
-- Build scalable, maintainable, production-grade applications
-- Contribute to impactful open-source projects
-- Master advanced patterns in frontend and backend systems
-- Establish a strong professional network in the tech community
-
-## 📫 Get in Touch
-
-I'm always interested in connecting with fellow developers and exploring new opportunities!
-
-- **Portfolio:** [Visit My Portfolio](https://my-portfolio-eight-ashen-89.vercel.app/)
-- **Phone:** +250 790 231 509
+- **Portfolio:** [my-portfolio-eight-ashen-89.vercel.app](https://my-portfolio-eight-ashen-89.vercel.app/)
 - **GitHub:** [github.com/emmy-niyonsaba](https://github.com/emmy-niyonsaba)
-
-## ⚡ Beyond Code
-
-When I'm not coding, you can find me enjoying football or reflecting on life's bigger picture. Balance and continuous self-improvement drive everything I do.
+- **Phone:** +250 790 231 509
