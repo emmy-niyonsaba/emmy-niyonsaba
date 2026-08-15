@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Emmanuel Niyonsaba
+# I'm Emmanuel Niyonsaba
 
 Passionate **Full-Stack Developer** focused on building scalable, production-ready web applications with modern frontend and backend technologies.
 
 ---
 
-### 🛠️ When I code, I rely on
+### When I code, I rely on
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,17 +29,7 @@ Passionate **Full-Stack Developer** focused on building scalable, production-rea
 
 ---
 
-### 🚀 Featured Projects
-
-- **Hotel Reservation System**  
-  A full-stack booking platform featuring user authentication, property management, and reservation workflows.
-
-- **Ikaze School Visitor Management System**  
-  An intelligent visitor management solution built for educational institutions to streamline check-in/check-out tracking and security protocols.
-
----
-
-### 📫 Get in Touch
+### Get in Touch
 
 - **Portfolio:** [my-portfolio-eight-ashen-89.vercel.app](https://my-portfolio-eight-ashen-89.vercel.app/)
 - **GitHub:** [github.com/emmy-niyonsaba](https://github.com/emmy-niyonsaba)
