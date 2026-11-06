@@ -1,6 +1,6 @@
 # I'm Emmanuel Niyonsaba
 
-Passionate **Full-Stack Developer** focused on building scalable, production-ready web applications with modern frontend and backend technologies.
+Passionate **Junior Full-Stack Developer** focused on building scalable, production-ready web applications with modern frontend and backend technologies.
 
 ---
 
